@@ -1,0 +1,5 @@
+README.md → Introdução ao projeto, objetivos e estrutura do repositório.
+data/ → Pasta onde serão armazenados os dados brutos e tratados.
+notebooks/ → Para notebooks Jupyter com análises exploratórias.
+src/ → Para scripts Python de pré-processamento e modelagem.
+docs/ → Para documentações detalhadas.
