@@ -1,0 +1,6 @@
+Estrutura dos Dados:
+id: Identificador único por registro
+data_hora: Data e hora da coleta
+localização: Coordenadas ponto de coleta
+fluxo veículos: Quantidade de veículos por minuto
+evento: Ocorrência de acidentes ou interdições
